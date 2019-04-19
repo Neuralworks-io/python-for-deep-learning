@@ -1,5 +1,12 @@
-# python-for-deep-learning
-딥러닝/데이터사이언스를 위한 파이썬 입문 - 마이캠퍼스
-Python 101 to start Deep Learning & Data Science
+
+# 딥러닝/데이터사이언스를 위한 파이썬 입문 - 마이캠퍼스
+
+## Python 101 to start Deep Learning & Data Science
+
+## 마이캠퍼스 "딥러닝 프로그래밍 강의 "  예습 자료 입니다
+## 폴더 1.python기본: 기본적으로 알아야 파이썬 기본입니다. 
+## 폴더 2.딥러닝준비: 딥러닝/데이터사이언스 시작하기 전에 요 정도 예습하시면 좋습니다.
+## "딥러닝 프로그래밍 강의" - https://pg.mycampus.io/?idx=97¶
+## 질문/문의 환영합니다. 마이캠퍼스 한대희 , daehee@mycampus.io, 010-2101-0255
 
 
